@@ -34,7 +34,7 @@ I am a Software Engineer based in Malang, Indonesia, specializing in building an
 
 ### 🚀 Featured Projects
 
-* **JoeKamera POS** - A specialized Point of Sale and rental system built with Next.js, Express, and Prisma.
+* **SMSCROPS** - A specialized accounting system for agricultural company. 
 * **KananHR** - Full-stack landing page with a job posting system and social media integration.
 * **Blockchain Research** - Contributed to developing a blockchain network with an 80% success rate during my time at UBIG.
 
